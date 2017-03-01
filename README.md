@@ -10,3 +10,6 @@
 
 `ivy`
 
+## Results
+
+Jar will be generatad in `~/.ivy2/cache/com.sandflow/regxmllib/jars` directory
