@@ -12,4 +12,4 @@
 
 ## Results
 
-Jar will be generatad in `~/.ivy2/cache/com.sandflow/regxmllib/jars` directory
+Jar will be generated in `~/.ivy2/cache/com.sandflow/regxmllib/jars` directory
